@@ -1,8 +1,18 @@
-# React + Vite
+# Number progress bar Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the Number Progress Bar Application, built using React,Vite and tailwindCss. This responsive site provides detailed information about our Application, including add subtract undo, and more.
 
-Currently, two official plugins are available:
+## Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Check out the live demo of the project [here](https://number-progress-bar.vercel.app/).
+
+![Screenshot of the Home Page](https://github.com/HusainMahtab/number-progress-bar/tree/main/src/assets/ProjectScreenshot.png)
+
+## Features
+- **Responsive Design:** Adapts to desktops, tablets, and mobile devices for an optimal viewing experience.
+
+
+
+
+
+
