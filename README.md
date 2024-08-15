@@ -6,7 +6,7 @@ Welcome to the Number Progress Bar Application, built using React,Vite and tailw
 
 Check out the live demo of the project [here](https://number-progress-bar.vercel.app/).
 
-![Screenshot of the Home Page](https://github.com/HusainMahtab/number-progress-bar/tree/main/src/assets/ProjectScreenshot.png)
+![Screenshot of the Home Page](https://github.com/HusainMahtab/number-progress-bar/blob/main/src/assets/ProjectScreenshot%20.png)
 
 ## Features
 - **Responsive Design:** Adapts to desktops, tablets, and mobile devices for an optimal viewing experience.
